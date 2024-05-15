@@ -1,0 +1,32 @@
+.recipe-details-container {
+    max-width: 600px;
+    margin: 100;
+    padding: 150px;
+    background-color: #e0dada;
+    border-radius: 80px;
+    align-content: center;
+    margin-left: 100px  ;
+  }
+  
+  .recipe-name {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .recipe-description {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #00000066;
+  }
+  
+  .edit-link {
+    display: inline-block;
+    margin-top: 20px;
+    color: #ff0000;
+    text-decoration: none;
+  }
+  
+  .edit-link:hover {
+    text-decoration: underline;
+  }
+  
