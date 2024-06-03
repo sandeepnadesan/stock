@@ -1,0 +1,47 @@
+/* RecipeList.css */
+
+.recipe-list-container {
+    margin-left: 1em;
+    padding: 1em;
+  }
+  
+  .title {
+    color: #FF2D00;
+    font-size: 3.2em;
+    text-align: center;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+  }
+  
+  .add-recipe-button {
+    color: white;
+    font-size: 1.1em;
+    background-color: lightcoral;
+    padding: 0.5em 1em;
+    border-radius: 10px;
+    text-decoration: none;
+  }
+  
+  .recipe-list {
+    list-style-type: none;
+    padding: 50px;
+  }
+  
+  .recipe-item {
+    margin-bottom: 1em;
+  }
+  
+  .recipe-name {
+    color: black;
+    font-size: 1.1em;
+  }
+  
+  .view-details-link {
+    color: red;
+    text-decoration: none;
+  }
+  

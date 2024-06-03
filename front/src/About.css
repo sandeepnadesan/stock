@@ -1,0 +1,27 @@
+.about-content {
+    margin: 10px auto 20px; /* Adjust margin-top to account for fixed navbar */
+    padding: 20px;
+    color: black; /* Set text color to black */
+    /* background-color: rgba(255, 255, 255, 0.5);  */
+    max-width: 800px;
+    border-radius: 10px;
+  }
+  
+  h2, h3 {
+    color: rgb(255, 145, 145); /* Ensure headings are also black */
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  a {
+    color: black; /* Set link color to black */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
